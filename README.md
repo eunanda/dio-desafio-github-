@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto sobre o Git/GitHub da Dio
+# Repositório - Desafios Java Developer
 Repositório criado para o Desafio de Projeto 
 
 ## Links Úteis
